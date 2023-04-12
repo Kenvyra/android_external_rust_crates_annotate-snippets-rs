@@ -1,0 +1,5 @@
+{
+    "name": "rust",
+    "fetch": "https://github.com/rust-lang/annotate-snippets-rs",
+    "revision": "refs/heads/master"
+}
